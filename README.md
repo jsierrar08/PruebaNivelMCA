@@ -10,7 +10,9 @@ We already have an endpoint that provides the product Ids similar for a given on
 ## Setting up the enviroment
 
 **1.** First of all, you must download this git repository into your computer.
+
 **2.** After you have downloaded the repository, you have to enter the folder "PruebaNivelMCA/api", where the developed application is located.
+
 **3.** We have to download the dependencies and build the project:
 ```
     mvn clean install
